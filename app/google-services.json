@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334107493447",
+    "project_id": "kwikchat-2c5c0",
+    "storage_bucket": "kwikchat-2c5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334107493447:android:30a7a5dca7d2787ddf5d62",
+        "android_client_info": {
+          "package_name": "com.example.kwikchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCax9WLUP-41-oAvMX765yklpVGab2mxRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

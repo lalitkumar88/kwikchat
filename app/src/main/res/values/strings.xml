@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KwikChat</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="lalit">Lalit</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="this_is_sent_message">This is sent message</string>
+    <string name="this_is_received_message">This is received message</string>
+</resources>
